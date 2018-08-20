@@ -4,28 +4,27 @@
 
 # example, using the weather variable below, determine what you need to take
 # with you to be prepared based on the following conditions:
-  # if it is sunny, print "sunscreen"
-  # if it is rainy, print "umbrella"
-  # if it is snowy, print "coat"
-  # if it is icy, print "yak traks"
+# if it is sunny, print "sunscreen"
+# if it is rainy, print "umbrella"
+# if it is snowy, print "coat"
+# if it is icy, print "yak traks"
 
-  weather = 'snowy'
+weather = "snowy"
 
-  if weather == 'sunny'
-    p "sunscreen"
-  elsif weather == 'rainy'
-    p "umbrella"
-  elsif weather == 'snowy'
-    p "coat"
-  elsif weather == 'icy'
-    p "yak traks"
-  else
-    p "good to go!"
-  end
+if weather == "sunny"
+  p "sunscreen"
+elsif weather == "rainy"
+  p "umbrella"
+elsif weather == "snowy"
+  p "coat"
+elsif weather == "icy"
+  p "yak traks"
+else
+  p "good to go!"
+end
 
 # Manipulate the variable 'weather' to see if you can print something other
 # than 'coat'
-
 
 ##################
 # Using the num_quarters variable defined below, determine
@@ -46,10 +45,9 @@ num_quarters = 2
 
 if num_quarters > 1
   puts "I have enough money for a gumball"
-  else
+else
   puts "I don't have enough money for a gumball"
 end
-
 
 #####################
 # Using the variables defined below, determine if you have the

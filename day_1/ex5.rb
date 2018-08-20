@@ -1,10 +1,10 @@
-name = 'Andrew James'
+name = "Andrew James"
 age = 37 # not a lie in 2009
 height = 72 # inches
 weight = 240 # lbs
-eyes = 'Brow'
-teeth = 'White'
-hair = 'Brown'
+eyes = "Brow"
+teeth = "White"
+hair = "Brown"
 height_in_cm = height * 2.54
 weight_in_kg = weight * 0.45359237
 

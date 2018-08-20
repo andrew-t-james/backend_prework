@@ -3,7 +3,7 @@ types_of_people = 10
 # assign x a string and interpolate types_of_people
 x = "There are #{types_of_people} types of people."
 # assign binary the string of binary
-binary = 'binary'
+binary = "binary"
 # assign do_not the string don'
 do_not = "don't"
 # assign y to a string and interpolate binary and do_not
@@ -28,9 +28,9 @@ joke_evaluation = "Isn't that joke so funny?! #{hilarious}"
 puts joke_evaluation
 
 # assign w a string
-w = 'This is the left side of...'
+w = "This is the left side of..."
 # assign e a string
-e = 'a string with a right side.'
+e = "a string with a right side."
 
 # the + operator is concatenating w and e
 puts w + e

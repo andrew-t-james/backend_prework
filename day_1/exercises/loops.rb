@@ -4,11 +4,11 @@
 
 # example: Write code that prints your name 5 times:
 5.times do
-  p 'Hermione Granger'
+  p "Hermione Granger"
 end
 
 5.times do
-  p 'Andrew James'
+  p "Andrew James"
 end
 
 # Write code below that prints the sum of 2 plus 2 7 times:
@@ -21,5 +21,5 @@ end
 # YOUR CODE HERE
 
 10.times do
-  p 'She sells seashells down by the seashore'
+  p "She sells seashells down by the seashore"
 end

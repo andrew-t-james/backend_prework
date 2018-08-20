@@ -4,12 +4,12 @@
 
 # example: Write code below to save your name to a variable and
 # print that variable to the terminal:
-name = 'Harry Potter'
+name = "Harry Potter"
 p name
 
 # Write code below to save the string 'Dobby' to a variable and
 # print that variable to the terminal:
-house_elf = 'Dobby'
+house_elf = "Dobby"
 # YOUR CODE HERE
 
 # Write code below to save the string 'Harry Potter must not return to Hogwarts!'

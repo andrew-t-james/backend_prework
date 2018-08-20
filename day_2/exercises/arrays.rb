@@ -4,16 +4,16 @@
 
 # example: write code below that will print an array of animals.
 # Store the array in a variable.
-animals = ['Zebra', 'Giraffe', 'Elephant']
+animals = ["Zebra", "Giraffe", "Elephant"]
 p animals
 
 # Write code below that will print an array of states. Store the array in a variable.
-states = ['Colorado','Arizona', 'California']
+states = ["Colorado", "Arizona", "California"]
 p states
 
 # Write code below that will print an array of foods. Store the array in a variable.
 # YOUR CODE HERE
-foods = ['Apple', 'Bread', 'Meat']
+foods = ["Apple", "Bread", "Meat"]
 p foods
 # example: Write code below that will print the number of elements in array of
 # animals from above.
@@ -35,7 +35,7 @@ p foods.last
 # Write code below that uses a method to add "lion" to the animals array and
 # print the result
 # YOUR CODE HERE
-animals.push 'Lion'
+animals.push "Lion"
 p animals
 
 # Write code below that removes the last item of food from the foods array and
